@@ -1,8 +1,18 @@
 body {
     padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-bottom: 0;
 }
 
 #carouselPub .carousel-item img {
     object-fit: contain;
+}
+
+footer {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    padding: 100px;
+}
+
+footer a {
+    color: #ffffff;
 }
