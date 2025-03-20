@@ -7,6 +7,10 @@ body {
     object-fit: contain;
 }
 
+img  {
+    object-fit: cover;
+}
+
 footer {
     background-color: #1d1d1d;
     color: #ffffff;
